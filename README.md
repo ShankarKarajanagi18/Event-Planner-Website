@@ -33,7 +33,6 @@ A premium and modern Event Planner Website built with Next.js, TypeScript, Tailw
 - Baby Showers
 - Corporate Events
 - Housewarming Events
-- Graduation Parties
 - Festival Celebrations
 - Custom Events
 
